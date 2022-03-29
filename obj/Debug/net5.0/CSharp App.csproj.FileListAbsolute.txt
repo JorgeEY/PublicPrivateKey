@@ -1,0 +1,48 @@
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\CSharp App.exe
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\CSharp App.deps.json
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\CSharp App.runtimeconfig.json
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\CSharp App.runtimeconfig.dev.json
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\CSharp App.dll
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\ref\CSharp App.dll
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\CSharp App.pdb
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\CSharp App.csproj.AssemblyReference.cache
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\CSharp App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\CSharp App.AssemblyInfoInputs.cache
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\CSharp App.AssemblyInfo.cs
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\CSharp App.csproj.CoreCompileInputs.cache
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\CSharp App.csproj.CopyComplete
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\CSharp App.dll
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\ref\CSharp App.dll
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\CSharp App.pdb
+D:\Codes\Visual Studio Code\CSharp App\obj\Debug\net5.0\CSharp App.genruntimeconfig.cache
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\System.CodeDom.dll
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\System.Management.dll
+D:\Codes\Visual Studio Code\CSharp App\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\CSharp App.exe
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\CSharp App.deps.json
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\CSharp App.runtimeconfig.json
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\CSharp App.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\CSharp App.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\ref\CSharp App.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\CSharp App.pdb
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\HtmlAgilityPack.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\System.Management.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\CSharp App.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\CSharp App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\CSharp App.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\CSharp App.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\CSharp App.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\CSharp App.csproj.CopyComplete
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\CSharp App.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\ref\CSharp App.dll
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\CSharp App.pdb
+C:\Users\Jorge\Desktop\GeneratePublicPrivateKey\obj\Debug\net5.0\CSharp App.genruntimeconfig.cache
